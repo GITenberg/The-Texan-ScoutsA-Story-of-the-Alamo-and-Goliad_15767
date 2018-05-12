@@ -1,0 +1,38 @@
+_repo: The-Texan-ScoutsA-Story-of-the-Alamo-and-Goliad_15767
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Altsheler, Joseph A. (Joseph Alexander)
+    aliases:
+    - Altsheler, Joseph Alexander
+    - Altsheler, J. A. (Joseph Alexander)
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '2561'
+    url: http://www.gutenberg.org/2009/agents/2561
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
+description: '"Continues the fortunes of Ned Fulton and his friends, who were the
+  central characters in ''The Texan star''."'
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15767'
+  lccn: '13006768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sieges -- Fiction'
+- !lcsh 'Texas -- History -- Revolution, 1835-1836 -- Fiction'
+- !lcsh 'Goliad Massacre, Goliad, Tex., 1836 -- Fiction'
+- !lcsh 'Alamo (San Antonio, Tex.) -- Siege, 1836 -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'War stories'
+title: 'The Texan Scouts: A Story of the Alamo and Goliad'
+url: http://www.gutenberg.org/ebooks/15767
